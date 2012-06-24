@@ -1,5 +1,7 @@
-This is the PHP Code for the PHP session exercise for the Igalia and URJC's Master of Software Libre (http://www.mastersoftwarelibre.com/)
+This is the PHP Code for the PHP session exercises for the Igalia and URJC's Master of Software Libre (http://www.mastersoftwarelibre.com/)
 
-In this exercise a database with users and passwords is created and a form for introducing and validating user id ans passwords is developed
+The exercises are two:
+- In the first one a database with users and passwords is created and a form for introducing and validating user id ans passwords is developed
+- The second one is coming soon :-)
 
 José Manuel Ciges Regueiro - June 2012
