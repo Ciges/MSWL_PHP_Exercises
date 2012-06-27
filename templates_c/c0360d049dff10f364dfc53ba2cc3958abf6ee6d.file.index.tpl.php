@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.8, created on 2012-06-24 20:16:23
+<?php /* Smarty version Smarty-3.1.8, created on 2012-06-27 19:55:34
          compiled from "./templates/index.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:6474878544fe749611d8e74-38658773%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'c0360d049dff10f364dfc53ba2cc3958abf6ee6d' => 
     array (
       0 => './templates/index.tpl',
-      1 => 1340560896,
+      1 => 1340819625,
       2 => 'file',
     ),
   ),
@@ -30,6 +30,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 <h2>Master of Free Software PHP Exercises</h2>
 <ul>
 	<li><a href="userlogin.php">Exercise 1:  User login form</a>
+	<li><a href="readshowimage.php">Exercise 2:  Read an image sent by the user and show it</a>
 </ul>
 
 </body>
