@@ -6,5 +6,10 @@ The exercises are two:
 
 The main page shown by default is a web page with links to the two exercises.
 
+Installation
+------------
+
+After downloading the code to a directory accesible by the web server, create the directories "config", "cache" and "templates_c" and acces to it with your internet navigator.
+
 
 José Manuel Ciges Regueiro - June 2012
