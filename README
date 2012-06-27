@@ -2,6 +2,9 @@ This is the PHP Code for the PHP session exercises for the Igalia and URJC's Mas
 
 The exercises are two:
 - In the first one a database with users and passwords is created and a form for introducing and validating user id ans passwords is developed
-- The second one is coming soon :-)
+- The second one allows the user to load an image from disk and after submiting it it is shown in the internet client (the image is read and sent directly to the user)
+
+The main page shown by default is a web page with links to the two exercises.
+
 
 José Manuel Ciges Regueiro - June 2012
